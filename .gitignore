@@ -8,3 +8,8 @@ silverstripe-cache
 .idea
 .DS_Store
 vendor/
+
+cms/
+framework/
+reports/
+themes/simple/
